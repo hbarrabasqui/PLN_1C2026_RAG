@@ -4,6 +4,8 @@ Sistema de Retrieval-Augmented Generation (RAG) para consultar documentos normat
 
 **Demo en vivo:** [HuggingFace Spaces](https://huggingface.co/spaces/Barra-79/TP_PLN_1C26)
 
+**Video demo:** [Ver en Google Drive](https://drive.google.com/drive/folders/1pNm-PmdK0gtrb992Q5yAz1BBtaghUpWm)
+
 ---
 
 ## Arquitectura
